@@ -14,9 +14,9 @@ Katakanlah kita memilih untuk menggeser ke kanan. Apa yang terjadi selanjutnya a
 dengan angka itu sendiri, keduanya akan digabungkan dengan menjumlahkannya. Terakhir, Anda juga akan melihat nomor baru muncul secara acak, disalah satu sel kisi yang kosong, angkanya selalu 2 atau 4.<br />
 Demikian pula, jika Anda menggeser ke bawah sekarang, semua petak di kisi akan bergeser sejauh mungkin ke bawah.
 sejauh yang dimungkinkan dalam kisi ini. Penggabungan juga akan dilakukan, jika ada, dan Anda juga akan melihat
-baru akan muncul seperti sebelumnya.a <br />
+baru akan muncul seperti sebelumnya.<br />
 Permainan akan terus berlanjut hingga Anda kehabisan langkah, atau ketika petak terbesar di papan adalah 2048. A
-banyak permainan yang memungkinkan Anda untuk terus bermain setelah Anda mendapatkan 2048, dan kami juga akan mengasumsikan hal yang sama untuk permainan yang akan dimainkan agen kami.a <br />
+banyak permainan yang memungkinkan Anda untuk terus bermain setelah Anda mendapatkan 2048, dan kami juga akan mengasumsikan hal yang sama untuk permainan yang akan dimainkan agen kami.<br />
 <br />Untuk mencoba demo model di komputer Anda, kloning repo dan ketik perintah berikut di terminal:
 ```
 python demo.py
